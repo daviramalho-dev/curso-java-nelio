@@ -7,6 +7,12 @@ bin/
 
 # Java
 *.class
+*.jar
+*.war
 
 # Logs
 *.log
+
+# Sistema
+.DS_Store
+Thumbs.db
