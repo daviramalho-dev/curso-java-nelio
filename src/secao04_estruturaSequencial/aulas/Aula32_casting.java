@@ -1,6 +1,6 @@
 package secao04_estruturaSequencial.aulas;
 
-public class Aula32_Casting {
+public class Aula32_casting {
 		public static void main(String[] args) {
 			int a, b;
 			double resultado;

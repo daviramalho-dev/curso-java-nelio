@@ -2,7 +2,7 @@ package secao05_estruturaCondicional.aulas;
 
 import java.util.Scanner;
 
-public class Aula45_OperadoresAtribuiçao {
+public class Aula45_operadoresAtribuiçao {
     public static void main(String[] args) {
         Scanner daviScanner = new Scanner(System.in);
         int minutos;

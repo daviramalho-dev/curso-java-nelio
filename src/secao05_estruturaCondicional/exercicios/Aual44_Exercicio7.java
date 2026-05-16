@@ -2,7 +2,7 @@ package secao05_estruturaCondicional.exercicios;
 
 import java.util.Scanner;
 
-public class Aual44_Exercicios7 {
+public class Aual44_Exercicio7 {
     public static void main(String[] args) {
         /*
          * Leia 2 valores com uma casa decimal (x e y), que devem representar as

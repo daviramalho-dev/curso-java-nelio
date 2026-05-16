@@ -2,7 +2,7 @@ package secao05_estruturaCondicional.aulas;
 
 import java.util.Scanner;
 
-public class Aula47ExpressaoCondicionalTernaria {
+public class Aula47_expressaoCondicionalTernaria {
     public static void main(String[] args) {
         Scanner daviScanner = new Scanner(System.in);
         

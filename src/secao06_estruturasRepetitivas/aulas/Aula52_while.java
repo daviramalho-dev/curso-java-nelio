@@ -2,7 +2,7 @@ package secao06_estruturasRepetitivas.aulas;
 
 import java.util.Scanner;
 
-public class Aula52_While {
+public class Aula52_while {
     public static void main(String[] args) {
         Scanner daviScanner = new Scanner(System.in);
 

@@ -2,7 +2,7 @@ package secao05_estruturaCondicional.exercicios;
 
 import java.util.Scanner;
 
-public class Aula44_Exercicios8 {
+public class Aula44_Exercicio8 {
     public static void main(String[] args) {
         /*
         Em um país imaginário denominado Lisarb, todos os habitantes ficam felizes

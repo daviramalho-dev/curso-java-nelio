@@ -1,6 +1,6 @@
 package secao04_estruturaSequencial.aulas;
 
-public class Aula35_FuncaoMatematicas {
+public class Aula35_funcaoMatematicas {
     public class Main {
         public static void main(String[] args) {
             double x = 3.0;

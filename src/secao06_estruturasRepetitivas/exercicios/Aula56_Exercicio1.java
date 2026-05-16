@@ -2,7 +2,7 @@ package secao06_estruturasRepetitivas.exercicios;
 
 import java.util.Scanner;
 
-public class Aula56_Exercicios1 {
+public class Aula56_Exercicio1 {
     public static void main(String[] args) {
         Scanner daviScanner = new Scanner(System.in);
         /*

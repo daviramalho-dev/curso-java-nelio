@@ -2,7 +2,7 @@ package secao05_estruturaCondicional.exercicios;
 
 import java.util.Scanner;
 
-public class Aula44_Exercicios4 {
+public class Aula44_Exercicio4 {
     public static void main(String[] args) {
         /*
          * Leia a hora inicial e a hora final de um jogo. A seguir calcule a duração do

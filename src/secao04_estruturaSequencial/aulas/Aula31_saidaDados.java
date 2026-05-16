@@ -2,7 +2,7 @@ package secao04_estruturaSequencial.aulas;
 
 import java.util.Locale;
 
-public class Aula31_SaidaDados {
+public class Aula31_saidaDados {
 		public static void main(String[] args) {
 			String product1 = "Computer";
 			String product2 = "Office desk";

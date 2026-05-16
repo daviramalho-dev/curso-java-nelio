@@ -2,7 +2,7 @@ package secao05_estruturaCondicional.exercicios;
 
 import java.util.Scanner;
 
-public class Aula44_Exercicios5 {
+public class Aula44_Exercicio5 {
 
         public static void main(String[] args) {
             /*

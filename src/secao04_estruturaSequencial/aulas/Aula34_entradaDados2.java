@@ -2,7 +2,7 @@ package secao04_estruturaSequencial.aulas;
 
 import java.util.Scanner;
 
-public class Aula34_EntradaDados2 {
+public class Aula34_entradaDados2 {
 	public static void main(String[] args) {
 		Scanner daviScanner  = new Scanner(System.in);
 		String s1, s2, s3;

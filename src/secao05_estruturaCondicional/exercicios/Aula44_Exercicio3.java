@@ -2,7 +2,7 @@ package secao05_estruturaCondicional.exercicios;
 
 import java.util.Scanner;
 
-public class Aula44_Exercicios3 {
+public class Aula44_Exercicio3 {
     public static void main(String[] args) {
         /*
          * Leia 2 valores inteiros (A e B). Após, o programa deve mostrar uma mensagem
