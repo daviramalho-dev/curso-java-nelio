@@ -1,4 +1,4 @@
-package secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula89_Fixaçao.application;
+package secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula89_Fixacao.application;
 
 public class Program {
     public static void main() {
