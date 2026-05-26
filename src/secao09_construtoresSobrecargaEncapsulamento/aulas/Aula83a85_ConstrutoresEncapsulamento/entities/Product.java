@@ -1,4 +1,4 @@
-package secao09_construtoresSobrecargaEncapsulamento.aulas.Aula83a85_Construtores.entities;
+package secao09_construtoresSobrecargaEncapsulamento.aulas.Aula83a85_ConstrutoresSobrecarga.entities;
 
 public class Product {
     public String name;

@@ -1,8 +1,8 @@
-package secao09_construtoresSobrecargaEncapsulamento.aulas.Aula83a85_Construtores.application;
+package secao09_construtoresSobrecargaEncapsulamento.aulas.Aula83a85_ConstrutoresSobrecarga.application;
 
 import java.util.Scanner;
 
-import secao09_construtoresSobrecargaEncapsulamento.aulas.Aula83a85_Construtores.entities.Product;
+import secao09_construtoresSobrecargaEncapsulamento.aulas.Aula83a85_ConstrutoresSobrecarga.entities.Product;
 
 public class Program {
     public static void main(String[] args) {

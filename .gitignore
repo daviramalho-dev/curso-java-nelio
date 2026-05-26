@@ -1,3 +1,8 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+
 # Eclipse
 .metadata/
 bin/
