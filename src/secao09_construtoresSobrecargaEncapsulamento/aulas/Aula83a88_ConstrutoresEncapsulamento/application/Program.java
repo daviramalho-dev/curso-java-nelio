@@ -1,8 +1,8 @@
-package secao09_construtoresSobrecargaEncapsulamento.aulas.Aula83a85_ConstrutoresSobrecarga.application;
+package secao09_construtoresSobrecargaEncapsulamento.aulas.Aula83a88_ConstrutoresEncapsulamento.application;
 
 import java.util.Scanner;
 
-import secao09_construtoresSobrecargaEncapsulamento.aulas.Aula83a85_ConstrutoresSobrecarga.entities.Product;
+import secao09_construtoresSobrecargaEncapsulamento.aulas.Aula83a88_ConstrutoresEncapsulamento.entities.Product;
 
 public class Program {
     public static void main(String[] args) {
@@ -14,7 +14,11 @@ public class Program {
         System.out.print("Price: ");
         double price = daviScanner.nextDouble();
         Product product = new Product(name, price);
-        
+
+        product.setName("Computer");
+        System.out.println("Update data: " + product.getName());
+        product.setPrice(1200);
+        System.out.println("Update data: " + product.getPrice());
 
         System.out.println("\nProduct data: " + product);
         System.out.print("\nEnter the number of products to be added in stock: ");
