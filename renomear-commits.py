@@ -9,17 +9,17 @@ import sys
 import os
 from datetime import datetime
 
-# Mapa de hash completo -> mensagem nova
+# Mapa de hash curto -> mensagem nova (HASHES REAIS DO SEU REPO)
 COMMITS = {
-    "a27928b3a3a399ec4656088ec36cec6f5ce3a04b": "feat(secao4): add estrutura de pastas e aulas 31-36",
-    "7cfab94f06ede847a98bd29b99d6d4a1ab028f5a": "feat(seçao7): adiçao de aulas",
-    "a6624a05bacff15196f12d782f7e85da6f975f58": "feat(seçao8): adiçao de exercicos da aula77",
-    "d8ced8a05f77ea9e85cf0b511b0612f9515ceb67": "feat(seçao9): Adiçao de encapsulamento nas aulas 83 a 88 que antes era ate a aula 85",
-    "0d03bb4bc8f718d00eb7f7008af6a9cc53a5cf6b": "feat(seçao8): adiçao de aula79",
-    "39d73ccfcde9264fa77d641105ecc4f8f9b27eb6": "feat(seçao8): adiçao de exercicios da aula80 de 1 a 5",
-    "278c96b4f1f64f5711d5fa0f91bd7710e9036d5f": "feat(seçao9): adiçao de aulas 83 a 85",
-    "28a6b45e16217308ca3e880430bbc9499fb6ee25": "fix: Correçao de titulos de aulas para ficar mais explicativo",
-    "6e73b91ec0ce680f7e9432d7515ec29c6f03e938": "feat: adiçao de configuraçoes pra o InteliJ",
+    "a27928b": "feat(secao4): add estrutura de pastas e aulas 31-36",
+    "e8d7b8a": "feat(seçao7): adiçao de aulas",
+    "42fa151": "feat(seçao8): adiçao de exercicos da aula77",
+    "537d427": "feat(seçao9): Adiçao de encapsulamento nas aulas 83 a 88 que antes era ate a aula 85",
+    "15e0c2b": "feat(seçao8): adiçao de aula79",
+    "5ebb8c3": "feat(seçao8): adiçao de exercicios da aula80 de 1 a 5",
+    "84dca50": "feat(seçao9): adiçao de aulas 83 a 85",
+    "cde27b7": "fix: Correçao de titulos de aulas para ficar mais explicativo",
+    "9ca9db9": "feat: adiçao de configuraçoes pra o InteliJ",
 }
 
 def run(cmd):
