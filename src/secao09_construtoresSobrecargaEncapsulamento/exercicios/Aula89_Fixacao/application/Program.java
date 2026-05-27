@@ -32,7 +32,6 @@ public class Program {
         int number = daviScanner.nextInt();
 
         System.out.println("Enter account holder: ");
-        daviScanner.nextLine();
         String holder = daviScanner.nextLine();
 
         System.out.println("Is there an initial deposit (Y/N)? ");
