@@ -1,26 +1,26 @@
 package secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula89_Fixacao.entities;
 
 public class Account {
-private int number;
-private String holder;
-private double balance;
+    private int number;
+    private String holder;
+    private double balance;
 
-public static int TAX = 5;
+    public static final double TAX = 5.0;
 
     public Account(int number, String holder) {
         this.number = number;
         this.holder = holder;
     }
 
-    public Account(int number, String holder, double amount) {
-        this.number = number;
-        this.holder = holder;
-        this.balance = balance;
+    public Account(int number, String holder, double initialDeposit) {
+        this(number, holder);
+        deposit(initialDeposit);
     }
 
     public int getNumber() {
         return number;
     }
+
     public String getHolder() {
         return holder;
     }
@@ -41,7 +41,8 @@ public static int TAX = 5;
         this.balance -= amount + TAX;
     }
 
-
-
+    public String toString() {
+        return "Account" + number + ", holder: " + holder + ", balance: $ " + String.format("%.2f", balance);
+    }
 }
 
