@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Program {
     public static void main(String[] args) {
         Scanner daviScanner = new Scanner(System.in);
-        /**
+        /*
          * Criar uma classe Product com:
          * - name
          * - price

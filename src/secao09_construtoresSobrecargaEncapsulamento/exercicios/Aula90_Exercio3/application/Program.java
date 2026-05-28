@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Program {
     public static void main(String[] args) {
         Scanner daviScanner = new Scanner(System.in);
-        /**
+        /*
          * EXERCÍCIO 3 - STUDENT
          * Criar uma classe Student com:
          * - name
@@ -26,7 +26,7 @@ public class Program {
          * - isApproved()
          *
          * Considere aprovação com 60 pontos.
-         **/
+         */
 
         System.out.println("Name: ");
         String name = daviScanner.nextLine();

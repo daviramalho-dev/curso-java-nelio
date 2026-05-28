@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Program {
     public static void main(String[] args) {
         Scanner daviScanner = new Scanner(System.in);
-        /**
+        /*
          * Criar uma classe Employee com:
          * - name
          * - grossSalary
@@ -29,7 +29,7 @@ public class Program {
          * 3. Ler uma porcentagem de aumento;
          * 4. Aplicar o aumento;
          * 5. Mostrar os dados atualizados.
-        **/
+        */
         System.out.println("Name: ");
         String name = daviScanner.nextLine();
         System.out.println("Gross salary: ");
