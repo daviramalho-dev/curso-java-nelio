@@ -1,4 +1,4 @@
-package secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula90_Exercicio1.entities;
+package secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula90_Exercicio1_ProdutosEstoque.entities;
 
 public class Product {
     private String name;

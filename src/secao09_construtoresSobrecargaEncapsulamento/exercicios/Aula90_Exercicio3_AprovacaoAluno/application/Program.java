@@ -1,6 +1,6 @@
-package secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula90_Exercio3.application;
+package secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula90_Exercicio3_AprovacaoAluno.application;
 
-import secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula90_Exercio3.entities.Student;
+import secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula90_Exercicio3_AprovacaoAluno.entities.Student;
 
 import java.util.Scanner;
 

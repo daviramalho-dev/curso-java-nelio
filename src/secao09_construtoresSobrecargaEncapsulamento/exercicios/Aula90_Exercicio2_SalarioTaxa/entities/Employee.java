@@ -1,4 +1,4 @@
-package secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula90_Exercicio2.entities;
+package secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula90_Exercicio2_SalarioTaxa.entities;
 
 public class Employee {
     private String name;

@@ -1,6 +1,6 @@
-package secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula90_Exercicio1.application;
+package secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula90_Exercicio1_ProdutosEstoque.application;
 
-import secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula90_Exercicio1.entities.Product;
+import secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula90_Exercicio1_ProdutosEstoque.entities.Product;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
-package secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula90_Exercicio4.application;
+package secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula90_Exercicio4_AutonomiaCarro.application;
 
-import secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula90_Exercicio4.entities.Car;
+import secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula90_Exercicio4_AutonomiaCarro.entities.Car;
 
 import java.util.Scanner;
 

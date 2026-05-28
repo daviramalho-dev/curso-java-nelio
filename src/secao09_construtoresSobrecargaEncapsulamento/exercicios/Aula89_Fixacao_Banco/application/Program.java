@@ -1,6 +1,6 @@
-package secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula89_Fixacao.application;
+package secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula89_Fixacao_Banco.application;
 
-import secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula89_Fixacao.entities.Account;
+import secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula89_Fixacao_Banco.entities.Account;
 
 import java.util.Scanner;
 

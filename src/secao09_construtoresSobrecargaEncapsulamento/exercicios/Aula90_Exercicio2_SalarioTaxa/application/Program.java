@@ -1,6 +1,6 @@
-package secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula90_Exercicio2.application;
+package secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula90_Exercicio2_SalarioTaxa.application;
 
-import secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula90_Exercicio2.entities.Employee;
+import secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula90_Exercicio2_SalarioTaxa.entities.Employee;
 
 import java.util.Scanner;
 

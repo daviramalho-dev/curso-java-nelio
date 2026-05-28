@@ -1,4 +1,4 @@
-package secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula90_Exercio3.entities;
+package secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula90_Exercicio3_AprovacaoAluno.entities;
 
 public class Student {
     private String name;

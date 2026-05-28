@@ -1,4 +1,4 @@
-package secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula90_Exercicio4.entities;
+package secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula90_Exercicio4_AutonomiaCarro.entities;
 
 public class Car {
     private String model;

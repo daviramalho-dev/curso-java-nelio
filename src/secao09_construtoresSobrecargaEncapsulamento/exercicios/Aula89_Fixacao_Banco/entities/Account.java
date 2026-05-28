@@ -1,4 +1,4 @@
-package secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula89_Fixacao.entities;
+package secao09_construtoresSobrecargaEncapsulamento.exercicios.Aula89_Fixacao_Banco.entities;
 
 public class Account {
     private int number;
